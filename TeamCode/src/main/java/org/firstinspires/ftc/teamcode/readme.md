@@ -1,6 +1,6 @@
 ## TeamCode Module
 
-Welcome! This is the home of most of the code I wrote for the FIRST Tech Challenge team FIX IT 3491!
+Welcome! This is the home of most of the code I wrote for the FIRST Tech Challenge team FIX IT 3491! Note that the majority of this code was written with another member on the team.
 
 ### gamecode
 The gamecode package contains the code that directly operates the robot. It relies on the rest of the TeamCode package to work.
